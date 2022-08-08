@@ -2,12 +2,14 @@
 title: Arnab Halder
 role: R&D Innovation Scientist at Ferrosan Medical Devices A/S
 avatar_filename: 2020.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Biomaterials, Bioelectrochemistry,
+  Biosensors, Bioelectronics and Neuroengineering.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biomaterials
+  - Bioelectrochemistry
+  - Biosensors
+  - Bioelectronics
+  - Neuroengineering
 social:
   - icon: envelope
     icon_pack: fas
